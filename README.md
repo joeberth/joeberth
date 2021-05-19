@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### Languages - Ask me about
 
+![Golang](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
