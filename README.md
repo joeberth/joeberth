@@ -1,6 +1,6 @@
 ### Hi there, I am Joeberth Souza 👋
 
-- 🔭 I’m currently working as Software Engineer on ![Itaú Unibanco](https://www.itau.com.br/) and supporting ![DadosJusBR](https://dadosjusbr.org/)
+- 🔭 I’m currently working as Software Engineer on [Itaú Unibanco](https://www.itau.com.br/) and supporting [DadosJusBR](https://dadosjusbr.org/)
 - 🌱 I’m currently learning **Google Protocol Buffers to solve a cross-language gap between Golang and Python**
 - 💬 Ask or Teach me about **Golang, Football, Software Architecture, Security, Unix, Data Science, Systems Design**
 - 📫 How to reach me: **joeberth@gmail.com**
