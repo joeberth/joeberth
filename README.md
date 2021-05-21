@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![NoSQL](https://img.shields.io/badge/-SQL-000?&logo=MongoDB)
+![NoSQL](https://img.shields.io/badge/-NoSQL-000?&logo=MongoDB)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-000?&logo=Salesforce)
 
 ### Technologies
