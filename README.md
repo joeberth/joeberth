@@ -26,7 +26,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=VueJS)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 
