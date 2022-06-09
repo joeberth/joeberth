@@ -25,5 +25,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Kubernets](https://img.shields.io/badge/-K8s-000?&logo=K8s)
+![GCP](https://img.shields.io/badge/-gcp-000?&logo=gcp)
+
 
 
