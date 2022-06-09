@@ -1,6 +1,6 @@
 ### Hi there, I am Joeberth Souza 👋
 
-- 🔭 I’m currently working as Software Engineer on [Itaú Unibanco](https://www.unico.io/) and supporting [DadosJusBR](https://dadosjusbr.org/)
+- 🔭 I’m currently working as Software Engineer on [Unico IdTech](https://www.unico.io/) and supporting [DadosJusBR](https://dadosjusbr.org/)
 - 🌱 I’m currently learning **How make a good Clean arch code in golang**
 - 💬 Ask or Teach me about **Golang, Protobuf, GCP, Football, K8s, docker, Software Architecture, Clean Arch, Data Science, Systems Design**
 - 📫 How to reach me: **joeberth@gmail.com**
